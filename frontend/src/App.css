@@ -1,0 +1,11 @@
+
+.signUp{
+
+  display: flex;
+  align-items: center;
+justify-content: center;
+color: white;
+}
+.dashboard{
+  overflow: scroll;
+}
